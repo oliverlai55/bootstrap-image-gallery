@@ -1,9 +1,13 @@
+.blog-wrapper{
+	margin: 3% 15%;
+}
+
+#carousel-example-generic{
+	margin-bottom: 3%;
+	width:49%;
+	margin: 25px auto;
+}
 .nav .home{
 	padding-left: 0px;
 }
 
-#daft-punk {
-	width: 50%;
-	margin-left: 28%;
-	margin-top: 3%;
-}

@@ -11,3 +11,12 @@
 	padding-left: 0px;
 }
 
+@media (min-width: 768px) {
+	.dropdown:hover .dropdown-menu {
+		display: block;
+	}
+}
+
+li .dropdown-toggle{
+	margin-top: 4%;
+}
